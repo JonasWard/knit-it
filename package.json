@@ -1,0 +1,10 @@
+{
+  "name": "knit-it",
+  "version": "0.0.1",
+  "description": "knit designer and visualizer",
+  "main": "index.js",
+  "repository": "git@github.com:JonasWard/knit-it.git",
+  "author": "JonasWard <jonas.vandenbulcke@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
